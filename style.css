@@ -161,3 +161,8 @@ nav p {
 nav {
   font-size: 18px;
 }
+
+article {
+  border: 2px;
+  boder-color: black;
+}
