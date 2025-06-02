@@ -319,7 +319,7 @@ footer {
   clear: both;
 } */
 
-/*FLEX BOX*/
+/*FLEX BOX*/ /*or not*/
 .main-header {
   display: flex;
   align-items: center;
